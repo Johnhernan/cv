@@ -1,0 +1,13 @@
+body {
+color: white;
+background-color: #222831;
+}
+
+hr{
+color: #f05454;
+border-style: none;
+border-top: 8px dotted;
+width: 30%;
+padding: 1px;
+
+}
